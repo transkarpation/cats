@@ -10,7 +10,6 @@ export class Task extends BaseEntity {
     @Column()
     title: string;
 
-
     @Column()
     description: string;
 
